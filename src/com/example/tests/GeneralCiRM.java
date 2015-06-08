@@ -61,6 +61,7 @@ public class GeneralCiRM {
 		selenium.click("css=body > div:nth-child(12) > div.ui-dialog-buttonpane.ui-widget-content.ui-helper-clearfix > div > button > span");
 		selenium.click("css=#editorDiv > div.app_container > div.right_column.grid_2 > div.activity > span:nth-child(14) > input[type=text]");
 		assertTrue(selenium.isVisible("id=ui-dialog-title-sh_dialog_profile"));
+		//test
 	}
 		
 
